@@ -1,0 +1,27 @@
+{
+  "name": "facerecognitionAPI",
+  "version": "1.0.0",
+  "description": "API for Face Recognition App",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermearmelo/facerecognitionAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermearmelo/facerecognitionAPI/issues"
+  },
+  "homepage": "https://github.com/guilhermearmelo/facerecognitionAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
